@@ -1,6 +1,6 @@
-MARC XML READ ME:
+# MARC XML READ ME:
 
-FILES IN THIS FOLDER:
+## FILES IN THIS FOLDER:
 
 MARC21slim.xsd - the MARCXML schema definitions for MARC serlializations
 
@@ -8,12 +8,12 @@ net collection_marcxml.xml - the MARCXML serialization of the NET collection dat
 
 pbcore2macxml_net collection.xsl - the stylesheet that transforms the PBCORE dataset to MARC
 
-ABOUT THIS DATASET:
+## ABOUT THIS DATASET:
 
-The stylesheet was written by Chris Pierce at the Library of Congress to transform a PBCore-standardized serialization of records describing the Library's collection of materials distributed by the National Educational Television public broadcasting company during the period between the late 1950s and the early 1970s. The mappings between PBCore and MARC are formalized, documented, and discussed in the crosswalk found in the CROSSWALK folder and in the report discussing this project. 
+The stylesheet was written by Chris Pierce at the Library of Congress to transform a PBCore-standardized serialization of records describing the Library's collection of materials distributed by the National Educational Television public broadcasting company during the period between the late 1950s and the early 1970s. The mappings between PBCore and MARC are formalized, documented, and discussed in the crosswalk found in the CROSSWALK folder and in the report discussing this project.
 
 
-DATA CLEANSING RECOMMENDATIONS:
+## DATA CLEANSING RECOMMENDATIONS:
 
 There are a number of irregularities that have been ironed out post-transformation rather than editing the stylesheet, some of which was due to the effects of conversion downstream, idiosyncracies with the original PBCORE dataset, and general glitches in the stylesheet's code itself. For best results, the following data cleaning process is recommended post-transformation:
 
@@ -37,7 +37,7 @@ There are a number of irregularities that have been ironed out post-transformati
 		3. MPEG 2
 
 However, there are also components for DVD (although only 1 component in this dataset), VHS, and Betacam. It is recommended to ctrl-F on tag="050" to examine rack numbers for the LC NET collection after transformation and update the folling types of rack number patterns:
-	
+
 		DV - DVDs - update 300 $c (dimensions) with "3/4 		inches (Blu-ray, DVD, etc.)" and the following 347 		(digital video characteristics) should be added: 			347 $A video file $2 rdaft [and] 347 $b DVD video; 		corresponding $3 fields defining the type 				of material specified would be useful as well to 		add to 347 and are used to find the right 300 $c 			to edit if there are multiple. Original 346 (Video 		characteristics) fields should be removed.You also 		have the option of not including DVD components at 		all, which is what Chris Pierce did, rather than 		adding new 347 fields.
 
 		VA - VHS - 300 $c (dimensions) should be updated 		to 1/2 inches, usually updated to the 300 field 			with $3 Access; 346 $a (video format) should be 			updated to VHS (the right 346 will likely be 		Access).
@@ -45,5 +45,3 @@ However, there are also components for DVD (although only 1 component in this da
 		VX - Betacam SP - 300 $c (dimensions) should be 		updated to 1/2 inches, usually updated to the 300 			field with $3 Preservation material; 346 $a (Video 		format) should be updated to to Betacam SP.
 
 As an explanation for this more lengthy issue with components, the PBCORE dataset's instantiationPhysical element could not be relied upon for consistent reporting of technical format, mostly because a high number of these were entered originally as "unknown." This particualrly prevents making a conditional query for each format type. The stylesheet sticks to a rough approximation of guages of videotape carriers, but there's also overlap here too. Thus, performing the updates above are necessary for straightening out inconsistencies as a result of this transformation.
-
-		
