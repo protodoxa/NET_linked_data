@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<genres>
+     <genre>
+          <heading>Action and adventure television programs (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026006</LCUri>
+     </genre>
+     <genre>
+          <heading>Animated films (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026049\n</LCUri>
+     </genre>
+     <genre>
+          <heading>Animated television programs (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026050\n</LCUri>
+     </genre>
+     <genre>
+          <heading>Anthology television programs (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026052</LCUri>
+     </genre>
+     <genre>
+          <heading>Autobiographical television programs (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026065</LCUri>
+     </genre>
+     <genre>
+          <heading>Biographical television programs (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026091</LCUri>
+     </genre>
+     <genre>
+          <heading>Children's television programs (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026127</LCUri>
+     </genre>
+     <genre>
+          <heading>Cinema verite films (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026134</LCUri>
+     </genre>
+     <genre>
+          <heading>Comedy films (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026147</LCUri>
+     </genre>
+     <genre>
+          <heading>Coming-of-age television programs (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026149</LCUri>
+     </genre>
+     <genre>
+          <heading>Concert television programs (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026162\n</LCUri>
+     </genre>
+     <genre>
+          <heading>Cultural television programs (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026178</LCUri>
+     </genre>
+     <genre>
+          <heading>Dance television programs (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026189</LCUri>
+     </genre>
+     <genre>
+          <heading>Detective and mystery television programs (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026197</LCUri>
+     </genre>
+     <genre>
+          <heading>Documentary films (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026205</LCUri>
+     </genre>
+     <genre>
+          <heading>Documentary-style television programs (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026209</LCUri>
+     </genre>
+     <genre>
+          <heading>Documentary television programs (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026207</LCUri>
+     </genre>
+     <genre>
+          <heading>Educational television programs (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026221\n</LCUri>
+     </genre>
+     <genre>
+          <heading>Ethnographic television programs (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026233</LCUri>
+     </genre>
+     <genre>
+          <heading>Fantasy television programs (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026244</LCUri>
+     </genre>
+     <genre>
+          <heading>Feature films (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026247</LCUri>
+     </genre>
+     <genre>
+          <heading>Fiction films (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026250\n</LCUri>
+     </genre>
+     <genre>
+          <heading>Fiction television programs (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026252\n</LCUri>
+     </genre>
+     <genre>
+          <heading>Film adaptations (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026254</LCUri>
+     </genre>
+     <genre>
+          <heading>Filmed interviews (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026269</LCUri>
+     </genre>
+     <genre>
+          <heading>Historical reenactments (Television programs) (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026314\n</LCUri>
+     </genre>
+     <genre>
+          <heading>Historical television programs (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026315</LCUri>
+     </genre>
+     <genre>
+          <heading>Legal television programs (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026359</LCUri>
+     </genre>
+     <genre>
+          <heading>Medical television programs (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026392</LCUri>
+     </genre>
+     <genre>
+          <heading>Nonfiction films (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026423</LCUri>
+     </genre>
+     <genre>
+          <heading>Nonfiction television programs (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026425</LCUri>
+     </genre>
+     <genre>
+          <heading>Opera television programs (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026429\n</LCUri>
+     </genre>
+     <genre>
+          <heading>Outtakes (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026435</LCUri>
+     </genre>
+     <genre>
+          <heading>Parody television programs (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026437\n</LCUri>
+     </genre>
+     <genre>
+          <heading>Public affairs television programs (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026476</LCUri>
+     </genre>
+     <genre>
+          <heading>Puppet television programs (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026481</LCUri>
+     </genre>
+     <genre>
+          <heading>Religious television programs (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026528\n</LCUri>
+     </genre>
+     <genre>
+          <heading>Romance television programs (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026544\n</LCUri>
+     </genre>
+     <genre>
+          <heading>Romantic comedy television programs (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026546</LCUri>
+     </genre>
+     <genre>
+          <heading>Satirical television programs (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2012025035\n</LCUri>
+     </genre>
+     <genre>
+          <heading>Science fiction television programs (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026558</LCUri>
+     </genre>
+     <genre>
+          <heading>Science television programs (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026561</LCUri>
+     </genre>
+     <genre>
+          <heading>Short films (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026570</LCUri>
+     </genre>
+     <genre>
+          <heading>Sketch comedy television programs (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026581</LCUri>
+     </genre>
+     <genre>
+          <heading>Social problem television programs (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026590</LCUri>
+     </genre>
+     <genre>
+          <heading>Televised dance (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026638</LCUri>
+     </genre>
+     <genre>
+          <heading>Televised literary readings (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026642\n</LCUri>
+     </genre>
+     <genre>
+          <heading>Televised performances (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026646</LCUri>
+     </genre>
+     <genre>
+          <heading>Televised plays (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026647</LCUri>
+     </genre>
+     <genre>
+          <heading>Televised speeches (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026649</LCUri>
+     </genre>
+     <genre>
+          <heading>Television adaptations (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026653\n</LCUri>
+     </genre>
+     <genre>
+          <heading>Television comedies (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026654\n</LCUri>
+     </genre>
+     <genre>
+          <heading>Television debates (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026660\n</LCUri>
+     </genre>
+     <genre>
+          <heading>Television interviews (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026662\n</LCUri>
+     </genre>
+     <genre>
+          <heading>Television musicals (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026666</LCUri>
+     </genre>
+     <genre>
+          <heading>Television news programs (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026667\n</LCUri>
+     </genre>
+     <genre>
+          <heading>Television panel discussions (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026668</LCUri>
+     </genre>
+     <genre>
+          <heading>Television press conferences (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026670</LCUri>
+     </genre>
+     <genre>
+          <heading>Television program excerpts (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026672</LCUri>
+     </genre>
+     <genre>
+          <heading>Television programs (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026673</LCUri>
+     </genre>
+     <genre>
+          <heading>Television series (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026680</LCUri>
+     </genre>
+     <genre>
+          <heading>Television specials (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026683</LCUri>
+     </genre>
+     <genre>
+          <heading>Thrillers (Television programs) (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026694</LCUri>
+     </genre>
+     <genre>
+          <heading>Travelogues (Television programs) (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026706</LCUri>
+     </genre>
+     <genre>
+          <heading>War television programs (lcgft)</heading>
+          <LCUri>http://id.loc.gov/authorities/genreForms/gf2011026731\n</LCUri>
+     </genre>
+</genres>
