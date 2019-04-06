@@ -2,7 +2,7 @@
 
 FILES AND FOLDERS:
 
-Crosswalk - This folder contains the crosswalk that aligns MAVIS, PBCORE, MARC, and BIBFRAME with mappings to EBUCORE included in order to trace possible extensions to theis ontology.
+Crosswalk - This folder contains the crosswalk that aligns MAVIS, PBCORE, MARC, and BIBFRAME with mappings to EBUCORE for possible extensions.
 
 marc2bibframe2-master - This folder contains the tools published by the Library of Congress' Network Standards and MARC Development Department to aid in the transformation of MARC-XML datasets to BIBFRAME standardized datasets. The xsl folder within this folder contains stylesheet files for transformation; the marc2bibframe2.xsl initializes the transformation of MARC-XML datasets to BIBFRAME.
 
